@@ -1,0 +1,21 @@
+body {}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 5px solid #555;
+  }
+
+.button-div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
