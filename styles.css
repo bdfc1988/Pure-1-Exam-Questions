@@ -13,9 +13,28 @@ img {
     border: 5px solid #555;
   }
 
-.button-div {
+  .button-div {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+.slider {
+    margin: 50px;
+}
+
+.btn {
+    padding: 10px 30px;
+    cursor: pointer;
+    margin: 10px auto;
+}
+
+.list {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 30px;
+    font-size: 20px;
 }
